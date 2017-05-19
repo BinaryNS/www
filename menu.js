@@ -11,7 +11,6 @@ document.write(
 "        </div>"+
 "        <div id='navbar' class='collapse navbar-collapse'>"+
 "          <ul class='nav navbar-nav'>"+
-"            <li><a href='about.html'>about</a></li>"+
 "            <li><a href='models.html'>models</a></li>"+
 "            <li><a href='contribute.html'>contribute</a></li>"+
 "          </ul>"+
